@@ -1,4 +1,3 @@
-# BMD_PWAS_MR
 ## Circulating proteins and bone mineral density: A Proteome-Wide Mendelian Randomization Study
 Reference:
 1. A Mendelian randomization analysis for the druggable genome in Parkinson's disease.(https://www.nature.com/articles/s41467-021-26280-1)
